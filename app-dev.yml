@@ -1,7 +1,3 @@
-app:
-  aws:
-    accountId: 030281458576
-    region: eu-west-1
 stack:
   id: config
 
